@@ -6,3 +6,5 @@ Just make sure that each class folder images is in the data folder, and run Auto
 AutoKeras-Train.py can be run once the dataset is preprocessed for training new models. 
 
 The visualization for the models will be included in the model folder at the end of training.
+
+This code was developed for testing for PlantVillage detection of Cassava diseases.
